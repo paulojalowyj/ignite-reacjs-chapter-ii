@@ -22,10 +22,10 @@ createServer({
         },
         {
           id: 2,
-          title: 'Alugle',
+          title: 'PX da Xuxa',
           type: 'withdraw',
           category: 'Casa',
-          amount: 1100,
+          amount: 7500,
           createdAt: new Date('2021-02-14 11:00'),
         }
       ]
