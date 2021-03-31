@@ -22,7 +22,7 @@ createServer({
         },
         {
           id: 2,
-          title: 'PX da Xuxa',
+          title: 'PC da Xuxa',
           type: 'withdraw',
           category: 'Casa',
           amount: 7500,
